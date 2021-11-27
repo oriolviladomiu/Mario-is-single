@@ -1,0 +1,52 @@
+body{
+	background-color: rgb(190, 190, 190);
+	color: white;
+	font-family: Arial;
+	text-align: center;
+}
+h1{
+	color: white;
+	font-family: Helvetica;
+	font-weight: 169;
+	letter-spacing: 3px;
+	font-size: 76px;
+}
+h2{
+	color: white;
+	font-family: Helvetica;
+	font-weight: 169;
+	letter-spacing: 3px;
+	font-size: 30px;
+}
+p{
+	color: ghostwhite;
+	font-family: Helvetica;
+	font-weight: 169;
+	letter-spacing: 1px;
+	font-size: 15px;
+}
+p span{
+	background-color: rgba(200, 200, 200, 1.0);
+}
+a{
+	color: white;
+	font-weight: 900;
+	text-decoration: none;
+}
+a:hover{
+	color: navajowhite;
+}
+ul{
+	text-align: center;
+	list-style-position: inside;
+}
+
+.circle{
+	border-radius: 50%;
+}
+.shadowed{
+	box-shadow: 10px 10px 10px white;
+}
+.shaded-box{
+	box-shadow: 10px 10px 10px white;
+}
